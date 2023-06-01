@@ -1,5 +1,6 @@
-import GoogleMap from "./GoogleMap";
-import ShopsWrapper from "./ShopsWrapper";
+import './ContactUs.css';
+import GoogleMap from "../../Components/ShopsMap/GoogleMap";
+import ShopsWrapper from "../../Components/ShopsWrapper/ShopsWrapper";
 
 
 function ContactUs() {

@@ -1,4 +1,5 @@
-import ShopItem from "./ShopItem";
+import './ShopsList.css';
+import ShopItem from "../ShopItem/ShopItem";
 
 function ShopList() {
 

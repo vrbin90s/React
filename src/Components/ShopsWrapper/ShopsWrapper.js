@@ -1,4 +1,5 @@
-import ShopList from "./ShopList";
+import './ShopsWrapper.css';
+import ShopList from "../ShopList/ShopList";
 
 function ShopsWrapper() {
     return (

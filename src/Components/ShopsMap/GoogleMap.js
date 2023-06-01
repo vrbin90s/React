@@ -1,3 +1,5 @@
+import './GoogleMap.css';
+
 function GoogleMap() {
     const iframeStyle = {
         border: '0',

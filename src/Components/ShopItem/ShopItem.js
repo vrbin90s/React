@@ -1,3 +1,5 @@
+import './ShopItem.css';
+
 function ShopItem(props){
     return (
     <div className="shop-item">

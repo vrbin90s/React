@@ -1,0 +1,19 @@
+:root {
+    --shops-list-gap: 15px;
+  }
+  
+  @media screen and (min-width: 600px) {
+
+  
+    .shops-wrapper {
+      width: 50%;
+    }
+  
+  }
+  
+  @media screen and (min-width: 800px) {
+    .shops-wrapper {
+      width: 60%;
+    }
+  }
+  
